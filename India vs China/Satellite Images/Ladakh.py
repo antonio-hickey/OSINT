@@ -105,7 +105,7 @@ def Indian_Base():
     # Take Screenshot
     time.sleep(2)
     driver.save_screenshot('/home/sratus/Desktop/OSINT/Satellite Images By Region/India' + date_string + '.png')
-
+#-----------------------------------------------------------------------------------------------------------------------------------
 def China_Base():
     # Actions 
     actionChains = wd(driver)
@@ -173,7 +173,7 @@ def China_Base():
     # Take Screenshot
     time.sleep(2)
     driver.save_screenshot('/home/sratus/Desktop/OSINT/Satellite Images By Region/China-' + date_string + '.png')
-
+#-----------------------------------------------------------------------------------------------------------------------------------
 # Running The Functions
 Indian_Base()
 time.sleep(1) # Use this to give a small pause interval
