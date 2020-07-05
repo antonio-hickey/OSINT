@@ -3,23 +3,21 @@ Open Source Intelligence projects
 
 Current Defense Analysis Projects
 - [India vs China Border Conflict 2020](https://git.io/JJT2B)
-- [U.S vs China South China Sea 2020]()
+- [South China Sea 2020](https://git.io/JJkhX)
 
 
 
 Twitter Data Collection Projects
 - [Twitter Scraper By Location](https://github.com/antonio-hickey/OSINT/tree/master/Twitter%20Scraper%20By%20Location)
-- [Twitter Scraper By Hashtags]()
+- [Twitter Scraper By Hashtags](https://git.io/JJkhp)
 - [Twitter Scraper By Keywords]()
-- [Twitter Scraper By Users]()
+- [Twitter Scraper By Users](https://git.io/JJkhi)
 
 
 
 TODO LIST
 - South China Sea Project
-- Twitter Scraper By Hashtags
 - Twitter Scraper By Keywords
-- Twitter Scraper By Users
 - China Social Media Psy Op Project
 - Russia Social Media Psy Op Project
 
