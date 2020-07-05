@@ -1,3 +1,14 @@
+"""
+Created on Mon Jun 29 01:58:28 2020
+
+This is how we use twint(https://git.io/JfdTX), to collect twitter data filtered by usernames.
+
+- Function to collect twitter data from Donald Trump
+- Function to collect twitter data from Joe Biden
+
+@author: Antonio Hickey
+"""
+
 import twint
 
 def trump():
