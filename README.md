@@ -17,6 +17,6 @@ Twitter Data Collection Projects
 
 TODO LIST
 
-[] South China Sea Project
-[x] Twitter Scraper By Keywords
+- [] South China Sea Project
+- [x] Twitter Scraper By Keywords
 
