@@ -16,8 +16,6 @@ Twitter Data Collection Projects
 
 
 TODO LIST
-- South China Sea Project
-- Twitter Scraper By Keywords
-- China Social Media Psy Op Project
-- Russia Social Media Psy Op Project
+[] South China Sea Project
+[x] Twitter Scraper By Keywords
 
