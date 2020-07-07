@@ -13,6 +13,11 @@ Twitter Data Collection Projects
 - [Twitter Scraper By Keywords]()
 - [Twitter Scraper By Users](https://git.io/JJkhi)
 
+Satellite Image Collection Bot
+- [Sat Image Bot](https://git.io/JJLpk)
+- [Example Images](https://git.io/JJLpD)
+
+
 
 
 TODO LIST
