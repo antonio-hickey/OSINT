@@ -8,10 +8,10 @@ Current Defense Analysis Projects
 
 
 Twitter Data Collection Projects
-- [Twitter Scraper By Location](https://github.com/antonio-hickey/OSINT/tree/master/Twitter%20Scraper%20By%20Location)
+- [Twitter Scraper By Location](https://git.io/JJLjs)
 - [Twitter Scraper By Hashtags](https://git.io/JJkhp)
 - [Twitter Scraper By Keywords]()
-- [Twitter Scraper By Users](https://git.io/JJkhi)
+- [Twitter Scraper By Users](https://git.io/JJLjW)
 
 Satellite Image Collection Bot
 - [Satellite Image Bot](https://git.io/JJLpk)
