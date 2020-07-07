@@ -1,5 +1,5 @@
 # OSINT
-Open Source Intelligence projects
+Open Source Intelligence Research
 
 Current Defense Analysis Projects
 - [India vs China Border Conflict 2020](https://git.io/JJT2B)
